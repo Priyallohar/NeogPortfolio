@@ -217,7 +217,7 @@ font-family: 'Montserrat', sans-serif;
 .Project-container:nth-of-type(odd){
     margin:20px  auto;
     width: 90%;
-    background-color:#e2fcec ;
+    background-color:#e6f8ed ;
     border-radius:10px;
 }
 .Project-container:nth-of-type(odd) h1,p , .btn-container{ 
