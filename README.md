@@ -10,7 +10,7 @@ This is my personal potfolio website for neogcamp. Where i have all **project fo
 
 # Here you can see my potfolio:-
 
-### <a href="https://github.com/Priyallohar/NeogPortfolio" target="_blank"> MY PORTFOLIO </a>
+### <a href="https://priyalneogportfolio.netlify.app/" target="_blank"> MY PORTFOLIO </a>
 
 ---
 ### Tech Used: ###
