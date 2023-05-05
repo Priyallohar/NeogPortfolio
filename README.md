@@ -20,3 +20,9 @@ This is my personal potfolio website for neogcamp. Where i have all **project fo
 2.CSS
 
 3.Java Script
+
+---
+
+Contact :
+
+* [LinkedIN](https://www.linkedin.com/in/priyallohar/)
