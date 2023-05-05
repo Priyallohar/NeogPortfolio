@@ -4,7 +4,7 @@ This is my personal potfolio website for neogcamp. Where i have all **project fo
 
 ---
 
-![](https://github.com/Priyallohar/NeogPortfolio/blob/master/image/Capture.PNG)
+![](https://github.com/Priyallohar/NeogPortfolio/blob/master/image/portfolioimg.PNG)
 
 ---
 
