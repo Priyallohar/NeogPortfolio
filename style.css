@@ -32,12 +32,12 @@ font-family: 'Montserrat', sans-serif;
     box-sizing: border-box;
 }
 .logo a{
-   
     text-decoration: none;
     color: var(--font-color);
     font-size: 20px;
     font-weight: 700;
 }
+
 .list-item {
     padding: 15px 2rem; 
     box-sizing: border-box;
@@ -48,6 +48,9 @@ font-family: 'Montserrat', sans-serif;
     color: var(--font-color);
     font-size: 15px;
     font-weight: 600;
+}
+.list-item a:hover{
+    color: white;
 }
 
 .image{
@@ -144,22 +147,40 @@ font-family: 'Montserrat', sans-serif;
 
 .socialmedia {
     box-sizing: border-box;
-    display: flex;
+    display:flex;
+    flex-wrap: wrap;
     justify-content: center;
     background-color: var(--dark-color);
-    width: 92%;
-    margin: 20px auto 0px;
+    width: 90%;
+    margin: 25px auto 0px;
     border-radius: 10px;
 }
 
+.socialmedia  h2 {
+    text-align: center;
+    width: 92%;
+    margin: 20px auto 5px;
+  }
+
+
 .socialmedia span{
-    margin: 2rem 2rem;
+    display: grid;
+    justify-content: center;
+    margin: 0.5rem 2rem;
     font-size: 30px;
 }
 
 .socialmedia a{
     color: var(--font-color);
 }
+
+.socialmedia a:hover{
+    color: white;
+}
+
+
+/* project html style */
+
 
 .projectheader{
     margin: 0px auto;
