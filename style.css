@@ -196,6 +196,18 @@ font-family: 'Montserrat', sans-serif;
     padding: 2rem; 
 }
 
+.imageproject{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 300px;
+   margin: 10px auto;
+   object-fit: top left;
+   border-radius: 10px;
+}
+
 .Project-container{
         margin: 0px auto;
         padding: 10px;
@@ -205,6 +217,8 @@ font-family: 'Montserrat', sans-serif;
 .Project-container:nth-of-type(odd){
     margin:20px  auto;
     width: 90%;
+    background-color:#e2fcec ;
+    border-radius:10px;
 }
 .Project-container:nth-of-type(odd) h1,p , .btn-container{ 
     display: flex;
