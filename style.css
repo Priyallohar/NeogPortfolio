@@ -183,10 +183,9 @@ font-family: 'Montserrat', sans-serif;
 
 
 .projectheader{
-    margin: 0px auto;
+    margin: 20px auto;
     width: 90%;
     height: 80px;
-    background-color: var(--dark-color);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -194,6 +193,15 @@ font-family: 'Montserrat', sans-serif;
     border-radius: 5px;
     box-sizing: border-box;
     padding: 2rem; 
+}
+
+.projectsvg{
+    position: relative;
+    margin: 10px auto;
+    width:90%;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
 }
 
 .imageproject{
