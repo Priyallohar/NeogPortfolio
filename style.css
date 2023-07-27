@@ -16,13 +16,14 @@ font-family: 'Montserrat', sans-serif;
 }
 .navigation-bar{
     margin: 0px auto;
-    width: 90%;
+    width: 100%;
     height: 80px;
     background-color: var(--dark-color);
     display: flex;
     justify-content: space-between;
     text-decoration: none;
-    border-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
     box-sizing: border-box;
     padding: 0px 2rem; 
 }
@@ -153,9 +154,10 @@ font-family: 'Montserrat', sans-serif;
     flex-wrap: wrap;
     justify-content: center;
     background-color: var(--dark-color);
-    width: 90%;
+    width: 100%;
     margin: 25px auto 0px;
-    border-radius: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
 .socialmedia  h2 {
@@ -405,9 +407,10 @@ font-family: 'Montserrat', sans-serif;
         align-items: center;
         justify-content: center;
         background-color: var(--dark-color);
-        width: 90%;
+        width: 100%;
         margin: 25px auto 0px;
-        border-radius: 10px;
+        border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
     }
 
     .socialmedia-blog  h2 {
